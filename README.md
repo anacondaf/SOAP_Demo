@@ -2,6 +2,9 @@
 
 This demonstration represents the basic SOAP application. This demo aims to give you the visualization of SOAP, its structure in .NET code, its request/response format in XML, etc.
 
+## Documents
+https://pointy-radium-496.notion.site/SOAP-Simple-Object-Access-Protocol-14a162cd85a7454fbaab0e684254b64d
+
 ## How to use
 
 - This application uses .NET Core 8.0 to run so if you don't have version 8.0 on machine, please kindly change version of .NET Core version in the SoapDemo.csproj as following:
